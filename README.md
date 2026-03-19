@@ -18,7 +18,6 @@ I share production-quality SuiteScript examples at [@FlowSync-Consulting](https:
 ## Background
 
 - 🎓 Cal Poly Pomona — BASc Computer Engineering
-- 🪖 Military Veteran
 - 🌎 Bilingual: English + Spanish
 - 📍 Based in Fontana, CA
 
@@ -31,7 +30,7 @@ I share production-quality SuiteScript examples at [@FlowSync-Consulting](https:
 ## Get in Touch
 
 - 🌐 [flowsyncconsulting.com](https://flowsyncconsulting.com)
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~your_profile_id)
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/bensaralegui)
 - 📧 dev@flowsyncconsulting.com
 
 ---
