@@ -30,7 +30,7 @@ I share production-quality SuiteScript examples at [@FlowSync-Consulting](https:
 ## Get in Touch
 
 - 🌐 [flowsyncconsulting.com](https://flowsyncconsulting.com)
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/bensaralegui)
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01a4198cc9f3b0ebfd)
 - 📧 dev@flowsyncconsulting.com
 
 ---
